@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["lgn <792841450@qq.com>"]
 edition = "2018"
 license = "MIT"
+description = "复制文件或文件夹"
 
 [description]
