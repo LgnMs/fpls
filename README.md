@@ -6,6 +6,8 @@
 
 ## 配置文件
 
+fpls.config.json
+
 - path 要复制的路径
 - output_path 复制到什么地方
 
