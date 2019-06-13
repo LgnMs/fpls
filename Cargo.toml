@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "fpls-lib",
+  "fpls-main",
+]

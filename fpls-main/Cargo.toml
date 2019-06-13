@@ -1,0 +1,13 @@
+[package]
+name = "fpls_main"
+version = "0.1.0"
+authors = ["lgn <792841450@qq.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+fpls_lib = { path = "../fpls-lib" }
+serde = { version = "1.0.92", features = ["derive"] }
+serde_json = "1.0.39"
+log = "0.4.6"
+env_logger = "0.6.1"
